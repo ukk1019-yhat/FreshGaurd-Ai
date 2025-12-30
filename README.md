@@ -2,7 +2,7 @@
 
 **FreshGuard AI** is a smart grocery and food expiry management application designed to reduce food waste by tracking expiry dates, providing timely reminders, and offering insights through analytics.  
 Built with modern web technologies and designed for future AI-powered intelligence.
-
+ Done with the help of the Gemini API 
 ---
 
 ## 🚀 Features
