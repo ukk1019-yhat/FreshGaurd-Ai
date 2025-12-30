@@ -1,0 +1,8 @@
+{
+  "name": "FreshGuard AI",
+  "description": "Smart grocery management and expiry tracker powered by Gemini AI to reduce food waste.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
