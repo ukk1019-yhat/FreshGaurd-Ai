@@ -58,26 +58,17 @@ freshguard-ai/
 ├── .env.local
 ├── .gitignore
 
-yaml
-Copy code
 
----
-
-## ⚙️ Installation & Setup
+⚙️ Installation & Setup
 
 1. **Clone the repository**
 ```bash
 git clone https://github.com/your-username/freshguard-ai.git
 cd freshguard-ai
 Install dependencies
-
-bash
-Copy code
 npm install
 Run the development server
 
-bash
-Copy code
 npm run dev
 Open your browser at:
 
@@ -87,8 +78,6 @@ http://localhost:5173
 🔑 Environment Variables
 Create a .env.local file:
 
-env
-Copy code
 API_KEY=your_gemini_api_key_here
 If no API key is provided, the app runs in Demo Mode.
 
@@ -131,9 +120,4 @@ License will be added in future releases.
 FreshGuard AI is an early-stage product built with a startup-first mindset, focused on real-world impact and scalability.
 
 ⭐ If you like this project, don’t forget to star the repo!
-
-yaml
-Copy code
-
----
 
